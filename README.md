@@ -5,13 +5,7 @@
 Olá, meu nome é Elias! Tenho formação Técnica em Análise e Desenvolvimento de Sistemas e estou atualmente cursando a graduação em Análise e Desenvolvimento de Sistemas (ADS). Após uma carreira na área de vendas, tomei a decisão de migrar para o setor de Tecnologia da Informação (TI), venho investindo em cursos, projetos e desafios que me permitam adquirir as habilidades necessárias para atuar de forma eficaz no desenvolvimento de software para me especializar como Desenvolvedor Fullstack.
 
 <p align="left"> 
-    <a href="https://github.com/eliasnlima?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/eliasnlima?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
+    <a href="https://www.linkedin.com/in/eliasnlima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://github.com/eliasnlima?tab=followers">
         <img 
             alt="Seguidores" 
@@ -19,6 +13,14 @@ Olá, meu nome é Elias! Tenho formação Técnica em Análise e Desenvolvimento
             src="https://custom-icon-badges.demolab.com/github/followers/eliasnlima?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+     <a href="https://github.com/eliasnlima?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/eliasnlima?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+     
 </p>
 
 ---
@@ -85,8 +87,9 @@ Olá, meu nome é Elias! Tenho formação Técnica em Análise e Desenvolvimento
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=eliasnlima&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=eliasnlima&show_icons=true&theme=dark"
   />
+
 
 <img 
       align="left" 
