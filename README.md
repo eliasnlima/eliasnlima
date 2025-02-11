@@ -85,7 +85,7 @@ Olá, meu nome é Elias! Tenho formação Técnica em Análise e Desenvolvimento
   <img 
     align="left" 
     alt="GitHub Stats" 
-      width="45%"
+      width="48%"
     height="200" 
     style="padding-right: 5px;" 
     src="https://github-readme-stats.vercel.app/api?username=eliasnlima&show_icons=true&theme=dark"
